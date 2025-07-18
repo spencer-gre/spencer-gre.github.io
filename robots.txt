@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://spencer-gre.github.io/sitemap.xml
